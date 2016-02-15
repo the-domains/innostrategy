@@ -2,6 +2,7 @@ name: innostrategy
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0
+title: 'Innovation & Strategy'
 cta:
   domain: null
   bucket: null
